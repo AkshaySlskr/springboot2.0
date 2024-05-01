@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>docker_assignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>docker_assignment</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
